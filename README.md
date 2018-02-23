@@ -9,3 +9,11 @@
 ![demo截图](https://github.com/lrain-lv/RnDemo/blob/master/WechatIMG15.jpeg)
 
 ![demo截图](https://github.com/lrain-lv/RnDemo/blob/master/WechatIMG17.jpeg)
+
+使用第三方组件：
+1.react-navigation 
+2.react-native-swiper
+3.react-native-storage 
+4.react-native-scrollable-tab-view等。
+
+
